@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/edisl/OneDrive/Desktop/Me/Proyectos Webs/ServidorApacheVagrant/html","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/edisl/OneDrive/Desktop/Me/Proyectos Webs/ServidorApacheVagrant","disabled":false,"__vagrantfile":true}}}
